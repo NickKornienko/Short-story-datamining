@@ -5,4 +5,4 @@ Article: A Simple yet Efficient Ensemble Approach for AI-generated Text Detectio
 
 Medium article: https://medium.com/@nick.kornienko/how-to-detect-ai-generated-text-e4e6ffe1cffd
 
-Powerpoint and video containing in files
+Powerpoint and video contained in files
